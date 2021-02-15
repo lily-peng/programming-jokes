@@ -1,5 +1,5 @@
 # programming-jokes
- Responsive CSS page utilizing the Official Joke API
+ Responsive CSS page utilizing fetch, async, and await with the Official Joke API
 
 ## Deployed at
 ```
